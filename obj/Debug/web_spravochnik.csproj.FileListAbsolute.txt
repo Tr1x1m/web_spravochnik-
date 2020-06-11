@@ -1,0 +1,17 @@
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\bin\Debug\web_spravochnik.exe.config
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\bin\Debug\web_spravochnik.exe
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\bin\Debug\web_spravochnik.pdb
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.csprojAssemblyReference.cache
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.Form1.resources
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.Properties.Resources.resources
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.csproj.GenerateResource.cache
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.csproj.CoreCompileInputs.cache
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.exe
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.pdb
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.BD.resources
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.CSS.resources
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.HTML5.resources
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.JS.resources
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\obj\Debug\web_spravochnik.PHP.resources
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\bin\Debug\Database1.mdf
+C:\Users\steam\source\repos\web_spravochnik\web_spravochnik\bin\Debug\Database1_log.ldf
